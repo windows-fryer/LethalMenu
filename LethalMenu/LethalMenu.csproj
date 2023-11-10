@@ -1,0 +1,83 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <RootNamespace>LeathalMenu</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="Assembly-CSharp">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Assembly-CSharp.dll</HintPath>
+      </Reference>
+      <Reference Include="Assembly-CSharp-firstpass">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+      </Reference>
+      <Reference Include="MelonLoader">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\MelonLoader\net35\MelonLoader.dll</HintPath>
+      </Reference>
+      <Reference Include="mscorlib">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\mscorlib.dll</HintPath>
+      </Reference>
+      <Reference Include="System">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\System.dll</HintPath>
+      </Reference>
+      <Reference Include="System.ComponentModel.Composition">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\System.ComponentModel.Composition.dll</HintPath>
+      </Reference>
+      <Reference Include="System.Core">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\System.Core.dll</HintPath>
+      </Reference>
+      <Reference Include="System.Data">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\System.Data.dll</HintPath>
+      </Reference>
+      <Reference Include="System.Drawing">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\System.Drawing.dll</HintPath>
+      </Reference>
+      <Reference Include="System.IO.Compression">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\System.IO.Compression.dll</HintPath>
+      </Reference>
+      <Reference Include="System.IO.Compression.FileSystem">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\System.IO.Compression.FileSystem.dll</HintPath>
+      </Reference>
+      <Reference Include="System.Net.Http">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\System.Net.Http.dll</HintPath>
+      </Reference>
+      <Reference Include="System.Numerics">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\System.Numerics.dll</HintPath>
+      </Reference>
+      <Reference Include="System.Runtime">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\System.Runtime.dll</HintPath>
+      </Reference>
+      <Reference Include="System.Runtime.Serialization">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\System.Runtime.Serialization.dll</HintPath>
+      </Reference>
+      <Reference Include="System.Transactions">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\System.Transactions.dll</HintPath>
+      </Reference>
+      <Reference Include="System.Xml">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\System.Xml.dll</HintPath>
+      </Reference>
+      <Reference Include="System.Xml.Linq">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\System.Xml.Linq.dll</HintPath>
+      </Reference>
+      <Reference Include="Unity.InputSystem">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Unity.InputSystem.dll</HintPath>
+      </Reference>
+      <Reference Include="Unity.Netcode.Components">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Unity.Netcode.Components.dll</HintPath>
+      </Reference>
+      <Reference Include="Unity.Netcode.Runtime">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Unity.Netcode.Runtime.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\UnityEngine.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine.CoreModule">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine.IMGUIModule">
+        <HintPath>D:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>
